@@ -1,2 +1,2 @@
 # dna
-find mathcing dna sequences from strings
+find matching dna sequences from strings
